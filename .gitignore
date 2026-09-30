@@ -1,0 +1,20 @@
+# KiCad lock files
+*.lck
+~*.lck
+
+# KiCad / editor backups
+_restore_backup_*/
+_layout_backup_*/
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_bak
+
+# Local history (VS Code extension)
+.history/
+
+# Generated manufacturing outputs
+output/
+
+# KiCad cache
+fp-info-cache
