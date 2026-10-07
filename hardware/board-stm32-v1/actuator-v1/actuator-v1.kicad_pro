@@ -624,7 +624,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "/home/lucas/Desktop/Github/CAN/CAN-cluster/hardware/board-stm32-v1/actuator-v1/gerber/",
       "specctra_dsn": "",
       "vrml": ""
     },
